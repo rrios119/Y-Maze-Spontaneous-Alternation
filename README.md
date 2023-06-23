@@ -64,6 +64,6 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
 
 | Term    | Description                                    |
 |---------|------------------------------------------------|
-| Unique Arm Entry Pattern | Represents the first term used in the project.  |
-| Arm Entry Pattern | Refers to the second term used in the project. |
-| Individual Arm Entry  | Indicates the third term used in the project.  |
+| Unique Arm Entry Pattern | Refers to the act of an animal entering three of the arms of the Y-Shaped Maze without repeating an arm entry within a specific period of time/trial (Ex: BAC, ABC, CBA).  |
+| Arm Entry Pattern | Refers to the act of an animal entering three of the arms of the Y-Shaped Maze within a specific period of time/trial (Ex: AAC, CBC, ABC, BBA, CAB, etc). |
+| Individual Arm Entry  | Refers to the act of an animal entering a single arm of the Y-Shaped Maze (Ex: C, A, B, C, B, C, A, C, B, etc).  |
