@@ -1,7 +1,9 @@
 import pandas as pd
 from itertools import groupby
 
-df = pd.read_csv("ymaze.csv", usecols = ['In top', 'In left', 'In right'])
+file = input('What is the name of your CSV file? Ex: ymaze.csv ' + '\n')
+
+df = pd.read_csv(file, usecols = ['In top', 'In left', 'In right'])
 
 top_list = df['In top'].tolist()
 left_list = df['In left'].tolist()
