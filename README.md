@@ -44,9 +44,14 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
 - ```
   python index.py
   ```
-- Input File Name:
+- Input CSV File Name:
   ```
   ymaze.csv
   ```
+- Input Desired Output Text File Name:
+  ```
+  output.txt
+  ```
 
-**3. View Output Text File**
+**3. View Data from Console or Output Text File**
+- The text file should be located within the root directory of the index.py file
