@@ -82,7 +82,9 @@ print(str(temp_patterns) + '\n')
 print('Individual Arm Entries: ' + str(len(ymaze)))
 print(str(ymaze) + '\n')
 
-textfile = open('output.txt', 'w')
+outputTextFile = input('What would you like to name the output text file? Ex: output.txt' + '\n')
+
+textfile = open(outputTextFile, 'w')
 
 textfile.write("Unique Arm Entries: " + str(total_ABC) + '\n')   
 textfile.write(str(patterns) + '\n')
