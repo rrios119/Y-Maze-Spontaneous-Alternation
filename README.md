@@ -6,6 +6,7 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Key](#key)
 
 ## Installation
 
@@ -54,4 +55,15 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
   ```
 
 **3. View Data from Console or Output Text File**
+- Contains the number of Unique Arm Entries, Total Arm Entries and Individual Arm Entries
+- Contains the patterns of Unique Arm Entries and Total Arm Entries 
+- Contains every Individual Arm Entry (C, A, B, C, B, C, A, C, B, etc)
 - The text file should be located within the root directory of the index.py file
+
+## Key
+
+| Term    | Description                                    |
+|---------|------------------------------------------------|
+| Unique Arm Entry Pattern | Represents the first term used in the project.  |
+| Arm Entry Pattern | Refers to the second term used in the project. |
+| Individual Arm Entry  | Indicates the third term used in the project.  |
