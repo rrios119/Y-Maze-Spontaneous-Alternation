@@ -1,6 +1,6 @@
-# Y-Maze Spontaneous Alternations
+# AnyMaze Spontaneous Alternations
 
-Extracts CSV file data that contains the mouse's X and Y coordinates and position value (1 or 0) with its timestamp. This streamlines the process of finding the total amount of Spontaneous Alternations and extracts the outputs into a text file.
+Utilizes CSV file from AnyMaze software that tracks the mouse's movements; which contains the mouse's X and Y coordinates and position value (1 or 0) with its timestamp. This streamlines the process of finding the total amount of Spontaneous Alternations and extracts the outputs into a text file.
 
 ## Table of Contents
 
