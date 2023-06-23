@@ -9,12 +9,12 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
 
 ## Installation
 
-1. Clone Repository
+**1. Clone Repository**
 - ```
   git clone https://github.com/rrios119/Y-Maze-Spontaneous-Alternation.git
   ```
 
-2. Create/Activate Virtual Environment
+**2. Create/Activate Virtual Environment**
 - For Windows:
   ```
   python -m venv venv
@@ -26,7 +26,7 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
   source venv/bin/activate
   ```
 
-3. Install Python Dependencies
+**3. Install Python Dependencies**
 - ```
   pip install -r requirements.txt
   ```
