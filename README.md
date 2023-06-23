@@ -10,7 +10,9 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
 ## Installation
 
 1. Clone Repository
-- ``` git clone https://github.com/rrios119/Y-Maze-Spontaneous-Alternation.git ```
+- ```
+  git clone https://github.com/rrios119/Y-Maze-Spontaneous-Alternation.git
+  ```
 
 2. Create/Activate Virtual Environment
 - For Windows:
