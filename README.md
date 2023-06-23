@@ -27,9 +27,12 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
   ```
 
 3. Install Python Dependencies
-- ``` pip install -r requirements.txt ```
+- ```
+  pip install -r requirements.txt
+  ```
 
 ## Usage
 
 Explain how to use your project. Provide examples, code snippets, or screenshots to demonstrate its usage in different scenarios. You can also include any configuration options or customization details.
 
+![Example CSV Excel File](example.png)
