@@ -35,7 +35,7 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
 
 **1. Check For Compatible CSV Format**
 - File must be located in the same root directory as the index.py
-- File should contain the columns 'In top', 'In left', and 'In right' (Respective columns known as ABC)
+- File should contain the columns 'In top', 'In left', and 'In right'
 - The rows with the associated column should contain 0 or 1 (1 equates to the mouse's location)
 
 ![Example CSV Excel File](example.png)
@@ -44,7 +44,9 @@ Extracts CSV file data that contains the mouse's X and Y coordinates and positio
 - ```
   python index.py
   ```
-- You are Prompted to put File Name:
+- Input File Name:
   ```
   ymaze.csv
   ```
+
+**3. View Output Text File**
