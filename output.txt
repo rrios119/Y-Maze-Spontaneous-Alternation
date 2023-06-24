@@ -1,6 +1,8 @@
 Unique Arm Entries: 23
 ['CAB', 'ABC', 'BCA', 'ACB', 'BCA', 'CAB', 'BAC', 'ACB', 'CBA', 'ABC', 'BCA', 'CAB', 'ABC', 'BCA', 'ACB', 'BCA', 'CAB', 'BAC', 'ACB', 'CBA', 'BAC', 'ACB', 'CBA']
 
+Percentage of Unique Arm Entries: 65.71%
+
 Total Arm Entries: 35
 ['CAB', 'ABC', 'BCB', 'CBC', 'BCA', 'CAC', 'ACB', 'CBC', 'BCA', 'CAC', 'ACA', 'CAB', 'ABA', 'BAC', 'ACB', 'CBA', 'BAB', 'ABC', 'BCA', 'CAB', 'ABC', 'BCA', 'CAC', 'ACB', 'CBC', 'BCA', 'CAB', 'ABA', 'BAC', 'ACB', 'CBA', 'BAC', 'ACB', 'CBA', 'BAB']
 
