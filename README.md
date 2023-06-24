@@ -60,6 +60,8 @@ Utilizes CSV file from AnyMaze software that tracks the mouse's movements; which
 - Contains every Individual Arm Entry (C, A, B, C, B, C, A, C, B, etc)
 - The text file should be located within the root directory of the index.py file
 
+![Example Text File](textfile.png)
+
 ## Key
 
 | Term    | Description                                    |
