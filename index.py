@@ -72,9 +72,13 @@ for i in range(len(ymaze)):
     if (verify == True):
         total_ABC = total_ABC + 1
         patterns.append(temp)
+unique_percent = (total_ABC / len(temp_patterns)) * 100
 
 print('Unique Arm Entries: ' + str(total_ABC))
 print(str(patterns) + '\n')
+
+print('Percentage of Unique Arm Entries: {:.2f}%'.format(unique_percent))
+print('\n')
 
 print('Total Arm Entries: ' + str(len(temp_patterns)))
 print(str(temp_patterns) + '\n')
@@ -88,6 +92,9 @@ textfile = open(outputTextFile, 'w')
 
 textfile.write("Unique Arm Entries: " + str(total_ABC) + '\n')   
 textfile.write(str(patterns) + '\n')
+
+textfile.write('\n' + "Percentage of Unique Arm Entries: {:.2f}%".format(unique_percent)) 
+textfile.write('\n')
 
 textfile.write('\n' + 'Total Arm Entries: ' + str(len(temp_patterns)) + '\n')
 textfile.write(str(temp_patterns) + '\n')
